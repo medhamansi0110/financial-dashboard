@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../../styles/transactions.css";
+import "../../styles/Transactions.css";
 
 const Transactions = ({ role }) => {
 
