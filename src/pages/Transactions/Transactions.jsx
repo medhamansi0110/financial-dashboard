@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "../../styles/Transactions.css";
 
+
 const Transactions = ({ role }) => {
 
   const mode = role;
