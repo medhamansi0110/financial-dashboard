@@ -1,0 +1,11 @@
+.layout {
+  height: 100vh;   
+}
+
+.main-content {
+  margin-left: 240px;
+  padding: 10px 20px;
+  overflow-y: auto;
+
+  width: calc(100% - 240px);   
+}
